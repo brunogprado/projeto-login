@@ -52,6 +52,7 @@ section#login > div#imagem {
     background: url(/imagens/back-tablet.jpg) no-repeat;
     background-size: cover;
     background-position: left center;
+    background-attachment: fixed;
     height: 200px;
 }
 
