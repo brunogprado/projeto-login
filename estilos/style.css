@@ -50,7 +50,7 @@ section#login {
 section#login > div#imagem {
     display: block;
     background-color: #5f2c82;
-    background-image: url(/imagens/metal.jpg);
+    background-image: url(/metal.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
