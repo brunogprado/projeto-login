@@ -42,9 +42,9 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.466);
     top: 50%;
     left: 50%;
-    /* transform: translate(-50%, -50%); 
-    transition: width 0.2s, height .2s; */
-    transition-timing-function: ease;  /* deixar transform e transition na ultima linha do seletor */
+    transform: translate(-50%, -50%); /* deixar transform e transition na ultima linha do seletor */
+    transition: width 0.2s, height .2s;
+    transition-timing-function: ease;
 }
 
 section#login > div#imagem {
