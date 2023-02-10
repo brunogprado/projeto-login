@@ -49,7 +49,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: var(--cor1) url("/imagens/pexels-david-underland-3523621.jpg") no-repeat;
+    background: url(/imagens/pexels-david-underland-3523621.jpg) no-repeat;
     background-size: cover;
     height: 200px;
 }
