@@ -21,7 +21,7 @@
 }
 
 body, html {
-    background-color: #5f2c82;
+    background-image: linear-gradient(to top, #602c8298, #2d0547);
     height: 100vh;
     width: 100vw;
 }
@@ -33,7 +33,7 @@ main {
 }
 
 section#login {
-    /* background-color: white; */
+    background-color: white;
     width: 250px;
     height: 500px;
     border-radius: 20px;
@@ -57,7 +57,6 @@ section#login > div#imagem {
 }
 
 section#login > div#formulario {
-    background-color: white;
     display: block;
     padding: 10px;
 }
