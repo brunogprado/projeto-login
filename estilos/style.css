@@ -49,6 +49,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
+    background-color: #5f2c82;
     background-image: url(/imagens/metal.jpg);
     background-size: cover;
     background-repeat: no-repeat;
@@ -59,4 +60,13 @@ section#login > div#imagem {
 section#login > div#formulario {
     display: block;
     padding: 10px;
+}
+
+div#formulario > h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+div#formulario > p {
+    font-size: 0.8em;
 }
