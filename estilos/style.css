@@ -49,7 +49,7 @@ section#login {
 
 section#login > div#imagem {
     display: block;
-    background: url(/imagens/metal.jpg) no-repeat;
+    background-image: url(/imagens/metal.jpg);
     background-size: cover;
     height: 200px;
 }
