@@ -21,9 +21,9 @@
 }
 
 body, html {
-    background-image: linear-gradient(to top, #602c8298, #2d0547);
-    height: 100vh;
     width: 100vw;
+    height: 100vh;
+    background-image: linear-gradient(to top, #602c8298, #2d0547);
 }
 
 main {
